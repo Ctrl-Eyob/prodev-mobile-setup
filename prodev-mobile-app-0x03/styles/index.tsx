@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
   },
   largeText: {
     fontSize: 40,
-    fontWeight: 700,
+    fontWeight: "700",
   },
   smallText: {
     fontSize: 12,
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
   socialMediaButtonText: {
     fontSize: 18,
     color: "#0D0D0D",
-    fontWeight: 400,
+    fontWeight: "400",
   },
   socialMediaButtonGroup: {
     gap: 15,
@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
   subTextJoin: {
     fontSize: 18,
     color: "#FFA800",
-    fontWeight: 600,
+    fontWeight: "600",
   },
 });
 
