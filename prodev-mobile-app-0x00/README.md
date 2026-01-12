@@ -27,7 +27,6 @@ removed the default example screens, reset the routing structure,
 and provided a clean starting point for development.
 
 ## Platform Notes
-
 Since this project was developed on Windows, iOS simulator commands
 such as `npm run ios` were not supported. The application was successfully
 tested using Expo Go.
